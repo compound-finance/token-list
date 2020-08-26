@@ -123,7 +123,7 @@
       "name": "Reputation",
       "symbol": "REP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_rep.svg"
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_REP.svg"
     },
     {
       "chainId": 1,
@@ -147,7 +147,7 @@
       "name": "USD Coin USDC",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_usdc.svg"
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
     },
     {
       "chainId": 1,
