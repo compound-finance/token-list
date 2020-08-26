@@ -92,8 +92,8 @@
     {
       "chainId": 1,
       "address": "0xF5DCe57282A584D2746FaF1593d3121Fcac444dC",
-      "name": "Compound Dai",
-      "symbol": "cDAI",
+      "name": "Compound Sai",
+      "symbol": "cSAI",
       "decimals": 8
     },
     {
