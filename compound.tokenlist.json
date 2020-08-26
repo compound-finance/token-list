@@ -1,10 +1,11 @@
 {
   "name": "Compound",
-  "logoURI": "https://compound.finance/images/compound-interface.svg",
+  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
   "keywords": [
+    "compound",
     "defi"
   ],
-  "timestamp": "2020-08-26T16:54:08.134+00:00",
+  "timestamp": "2020-08-26T23:30:57.113+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -112,7 +113,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8
@@ -151,14 +152,14 @@
     },
     {
       "chainId": 1,
-      "address": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
+      "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
       "name": "Kyber Network Crystal",
       "symbol": "KNC",
       "decimals": 18
     },
     {
       "chainId": 1,
-      "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+      "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
       "name": "ChainLink Token",
       "symbol": "LINK",
       "decimals": 18
@@ -167,6 +168,6 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   }
 }
