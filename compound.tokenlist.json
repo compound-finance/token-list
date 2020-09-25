@@ -695,6 +695,14 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x7d4b8cce0591c9044a22ee543533b72e976e36c3",
+      "name": "Change Utility Token",
+      "symbol": "CAG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_CAG.svg"
     }
   ],
   "version": {
