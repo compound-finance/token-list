@@ -165,6 +165,14 @@
       "decimals": 18
     },
     {
+      "chainId": 1,
+      "address": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
+      "name": "PoolTogether Governance Token",
+      "symbol": "POOL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_POOL.svg"
+    },
+    {
       "chainId": 3,
       "address": "0xE4C6182EA459E63B8F1be7c428381994CcC2D49c",
       "name": "0x Protocol Token",
