@@ -5,7 +5,7 @@
     "compound",
     "defi"
   ],
-  "timestamp": "2020-09-03T12:37:57.000+00:00",
+  "timestamp": "2021-05-19T20:37:00.000+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -174,7 +174,7 @@
     },
     {
       "chainId": 3,
-      "address": "0xE4C6182EA459E63B8F1be7c428381994CcC2D49c",
+      "address": "0xc0e2D7d9279846B80EacdEa57220AB2333BC049d",
       "name": "0x Protocol Token",
       "symbol": "ZRX",
       "decimals": 18,
@@ -182,7 +182,7 @@
     },
     {
       "chainId": 3,
-      "address": "0x8aF93cae804cC220D1A608d4FA54D1b6ca5EB361",
+      "address": "0x2973e69b20563bcc66dC63Bde153072c33eF37fe",
       "name": "Compound USD Coin",
       "symbol": "cUSDC",
       "decimals": 8,
@@ -190,7 +190,7 @@
     },
     {
       "chainId": 3,
-      "address": "0xdb5Ed4605C11822811a39F94314fDb8F0fb59A2C",
+      "address": "0xbc689667C13FB2a04f09272753760E38a95B998C",
       "name": "Compound Dai",
       "symbol": "cDAI",
       "decimals": 8,
@@ -198,7 +198,7 @@
     },
     {
       "chainId": 3,
-      "address": "0xc2118d4d90b274016cB7a54c03EF52E6c537D957",
+      "address": "0x31F42841c2db5173425b5223809CF3A38FEde360",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
@@ -206,7 +206,7 @@
     },
     {
       "chainId": 3,
-      "address": "0x516de3a7A567d81737e3a46ec4FF9cFD1fcb0136",
+      "address": "0x110a13FC3efE6A245B50102D2d79B3E76125Ae83",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
@@ -214,7 +214,7 @@
     },
     {
       "chainId": 3,
-      "address": "0x1Fe16De955718CFAb7A44605458AB023838C2793",
+      "address": "0xf76D4a441E4ba86A923ce32B89AFF89dBccAA075",
       "name": "Compound",
       "symbol": "COMP",
       "decimals": 18,
@@ -222,7 +222,7 @@
     },
     {
       "chainId": 3,
-      "address": "0x135669c2dcBd63F639582b313883F101a4497F76",
+      "address": "0xF6958Cf3127e62d3EB26c79F4f45d3F3b2CcdeD4",
       "name": "Compound USDT",
       "symbol": "cUSDT",
       "decimals": 8,
@@ -230,7 +230,7 @@
     },
     {
       "chainId": 3,
-      "address": "0x9E95c0b2412cE50C37a121622308e7a6177F819D",
+      "address": "0xaF50a5A6Af87418DAC1F28F9797CeB3bfB62750A",
       "name": "Compound Basic Attention Token",
       "symbol": "cBAT",
       "decimals": 8,
@@ -238,7 +238,7 @@
     },
     {
       "chainId": 3,
-      "address": "0x443Fd8D5766169416aE42B8E050fE9422f628419",
+      "address": "0x50390975D942E83D661D4Bde43BF73B0ef27b426",
       "name": "Basic Attention Token",
       "symbol": "BAT",
       "decimals": 18,
@@ -246,7 +246,7 @@
     },
     {
       "chainId": 3,
-      "address": "0xBe839b6D93E3eA47eFFcCA1F27841C917a8794f3",
+      "address": "0x859e9d8a4edadfEDb5A2fF311243af80F85A91b8",
       "name": "Compound Ether",
       "symbol": "cETH",
       "decimals": 8,
@@ -254,14 +254,14 @@
     },
     {
       "chainId": 3,
-      "address": "0xBde8bB00A7eF67007A96945B3a3621177B615C44",
+      "address": "0x442Be68395613bDCD19778e761f03261ec46C06D",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8
     },
     {
       "chainId": 3,
-      "address": "0x58145Bc5407D63dAF226e4870beeb744C588f149",
+      "address": "0x541c9cB0E97b77F142684cc33E8AC9aC17B1990F",
       "name": "Compound Wrapped BTC",
       "symbol": "cWBTC",
       "decimals": 8,
@@ -269,7 +269,7 @@
     },
     {
       "chainId": 3,
-      "address": "0x00e02a5200CE3D5b5743F5369Deb897946C88121",
+      "address": "0x6B8b0D7875B4182Fb126877023fB93b934dD302A",
       "name": "Compound 0x",
       "symbol": "cZRX",
       "decimals": 8,
@@ -277,7 +277,7 @@
     },
     {
       "chainId": 3,
-      "address": "0x0D9C8723B343A8368BebE0B5E89273fF8D712e3C",
+      "address": "0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
       "name": "USD Coin USDC",
       "symbol": "USDC",
       "decimals": 6,
@@ -285,7 +285,7 @@
     },
     {
       "chainId": 3,
-      "address": "0x8F2c8B147A3D316d2b98f32F3864746F034A55a2",
+      "address": "0x2862065D57749f1576F48eF4393eb81c45fC2d88",
       "name": "Compound Augur",
       "symbol": "cREP",
       "decimals": 8,
@@ -293,7 +293,7 @@
     },
     {
       "chainId": 3,
-      "address": "0x6FD34013CDD2905d8d27b0aDaD5b97B2345cF2B8",
+      "address": "0xb1cBa8b721C7a241b9AD08C17F328886B014ACfE",
       "name": "Reputation",
       "symbol": "REP",
       "decimals": 18,
@@ -301,7 +301,7 @@
     },
     {
       "chainId": 3,
-      "address": "0xc4d2A5872E16BC9E6557bE8B24683D96EB6ADca9",
+      "address": "0x7Ac65E0f6dBA0EcB8845f17d07bF0776842690f8",
       "name": "Compound Sai",
       "symbol": "cSAI",
       "decimals": 8,
@@ -309,7 +309,7 @@
     },
     {
       "chainId": 3,
-      "address": "0x26fF7457496600C63b3E8902C9f871E60eDec4e4",
+      "address": "0x63F7AB2f24322Ae2eaD6b971Cb9a71A1CC2eee03",
       "name": "Sai Stablecoin v1.0",
       "symbol": "SAI",
       "decimals": 18,
@@ -706,8 +706,8 @@
     }
   ],
   "version": {
-    "major": 0,
-    "minor": 1,
+    "major": 1,
+    "minor": 0,
     "patch": 0
   }
 }
