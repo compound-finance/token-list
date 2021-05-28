@@ -5,7 +5,7 @@
     "compound",
     "defi"
   ],
-  "timestamp": "2021-05-19T20:37:00.000+00:00",
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -62,6 +62,13 @@
       "symbol": "COMP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_COMP.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x70e36f6BF80a52b3B46b3aF8e106CC0ed743E8e4",
+      "name": "Compound Collateral",
+      "symbol": "cCOMP",
+      "decimals": 8
     },
     {
       "chainId": 1,
@@ -166,11 +173,47 @@
     },
     {
       "chainId": 1,
+      "address": "0xFAce851a4921ce59e912d19329929CE6da6EB0c7",
+      "name": "Compound ChainLink",
+      "symbol": "cLINK",
+      "decimals": 8
+    },
+    {
+      "chainId": 1,
       "address": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
       "name": "PoolTogether Governance Token",
       "symbol": "POOL",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_POOL.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x35A18000230DA775CAc24873d00Ff85BccdeD550",
+      "name": "Compound Uniswap",
+      "symbol": "cUNI",
+      "decimals": 8
+    },
+    {
+      "chainId": 1,
+      "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+      "name": "TrueUSD",
+      "symbol": "TUSD",
+      "decimals": 18
+    },
+    {
+      "chainId": 1,
+      "address": "0x12392F67bdf24faE0AF363c24aC620a2f67DAd86",
+      "name": "Compound TrueUSD",
+      "symbol": "cTUSD",
+      "decimals": 8
     },
     {
       "chainId": 3,
@@ -220,6 +263,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_COMP.svg"
     },
+    {
+      "chainId": 3,
+      "address": "0x70014768996439F71C041179Ffddce973a83EEf2",
+      "name": "Compound Collateral",
+      "symbol": "cCOMP",
+      "decimals": 8
+    },
+
     {
       "chainId": 3,
       "address": "0xF6958Cf3127e62d3EB26c79F4f45d3F3b2CcdeD4",
@@ -706,7 +757,7 @@
     }
   ],
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   }
