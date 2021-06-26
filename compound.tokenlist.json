@@ -754,6 +754,14 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },    
+    {
+      "chainId": 42,
+      "address": "0x74603e780545d02C4257E7D2BE19c74dE7BE1952",
+      "name": "ETG Finance",
+      "symbol": "ETGF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ETGF.svg"
     }
   ],
   "version": {
