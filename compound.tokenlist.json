@@ -754,6 +754,14 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },
+    {
+      "chainId": 42,
+      "address": "0x6a3aAB575838119ADCBE42063bf60bb4f8063f40",
+      "name": "Compound Nine COIN",
+      "symbol": "NINE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_NINE.svg"
     }
   ],
   "version": {
