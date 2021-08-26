@@ -216,6 +216,14 @@
       "decimals": 8
     },
     {
+      "chainId": 1,
+      "address": "0x7d6f165a8d0b08cb8e6a68fb40030b7216abb3f7",
+      "name": "DSeguros Network",
+      "symbol": "DSG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DSG.png"
+    },
+    {
       "chainId": 3,
       "address": "0xc0e2D7d9279846B80EacdEa57220AB2333BC049d",
       "name": "0x Protocol Token",
