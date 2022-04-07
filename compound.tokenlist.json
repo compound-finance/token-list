@@ -754,6 +754,22 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },
+    {
+      "chainId": 1666700000,
+      "address": "0x3466C2Ba499af2DE194B064fD3C9668a7Eb14f49",
+      "name": "TEST A",
+      "symbol": "TESTA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },
+    {
+      "chainId": 1666700000,
+      "address": "0x92670EfDcC376b57B95642612643f7f06A69a25e",
+      "name": "TEST B",
+      "symbol": "TESTB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
     }
   ],
   "version": {
